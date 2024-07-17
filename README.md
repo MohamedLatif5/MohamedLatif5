@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Junior Frontend Developer specializing in building modern web applications. Proficient in front-end development using React.js, with a strong understanding of JavaScript and TypeScript. I am enthusiastic about contributing to open-source projects and eager to collaborate in a team environment to develop innovative web solutions.
 <!--
 **MohamedEid20/MohamedEid20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
