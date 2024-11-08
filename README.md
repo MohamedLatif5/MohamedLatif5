@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 software developer
 ------------------
 
-Junior Frontend Developer specializing in building modern web applications. Proficient in front-end development using React.js, with a strong understanding of JavaScript and TypeScript. I am enthusiastic about contributing to open-source projects and eager to collaborate in a team environment to develop innovative web solutions.
-
+Frontend Developer specializing in building modern web applications. Proficient in front-end development using React.js, with a strong understanding of JavaScript and TypeScript. I am enthusiastic about contributing to open-source projects and eager to collaborate in a team environment to develop innovative web solutions.
 * 🌍  I'm based in Cairo, Egypt.
 * ✉️  You can contact me at [mohamedlatif505@gmail.com](mailto:mohamedlatif505@gmail.com)
 
