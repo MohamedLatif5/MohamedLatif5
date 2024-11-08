@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohamed Eid
 ===================================================================================================================================
 
-software developer
+Software Developer
 ------------------
 
 Frontend Developer specializing in building modern web applications. Proficient in front-end development using React.js, with a strong understanding of JavaScript and TypeScript. I am enthusiastic about contributing to open-source projects and eager to collaborate in a team environment to develop innovative web solutions.
