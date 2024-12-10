@@ -12,8 +12,8 @@ I'm a Fullstack Developer with a strong passion for creating responsive, user-fr
 🛠️ Tech Stack
 
 Frontend: HTML, CSS, JavaScript (ES6+), TypeScript, React.js, Redux, Tailwind CSS, Bootstrap.
-Backend: Node.js, Express.js, SQLite, MongoDB, CORS, REST APIs.
-Tools & Platforms: Git, GitHub, Docker, Postman, npm/yarn, VS Code.
+Backend: Node.js, Express.js, SQLite, MongoDB, REST APIs.
+Tools & Platforms: Git, GitHub, Docker, Postman, VS Code.
 Languages: Arabic (Native), English (Professional).
 
 📬 Let's Connect
