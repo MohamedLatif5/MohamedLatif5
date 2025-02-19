@@ -14,6 +14,7 @@ I'm a Fullstack Developer with a strong passion for creating responsive, user-fr
 Frontend: HTML, CSS, JavaScript (ES6+), TypeScript, React.js, Tailwind CSS.
 Backend: Node.js, Express.js, MongoDB, REST APIs.
 Tools & Platforms: Git, GitHub, Docker, Postman, VS Code.
+Operating system: Linux, Windows.
 Languages: Arabic (Native), English (Professional).
 
 📬 Let's Connect
