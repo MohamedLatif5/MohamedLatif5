@@ -1,6 +1,4 @@
-Sure! Here's a revised version of your profile focusing on **Backend** and **DevOps**:
 
----
 
 **Hello, I'm Mohamed Eid**
 
