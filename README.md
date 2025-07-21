@@ -2,7 +2,7 @@
 
 **Hello, I'm Mohamed Eid**
 
-🛠️ Backend Developer | ⚙️ DevOps Enthusiast | 🌍 Open Source Contributor
+🛠️ Backend Developer | 🌍 Open Source Contributor
 
 🔭 I’m currently working on nodeJS and express ,Nest.js
 I’m currently learning system design and DevOps fundamentals
