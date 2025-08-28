@@ -15,7 +15,7 @@ I’m currently learning system design and DevOps fundamentals
 ---
 
 ### 🧰 Tech Stack
-- **languages:** Javascript,Typescript, Python.
+- **languages:** Javascript,Typescript, Python.PHP
 - **Backend:** Node.js, Express.js, MongoDB, PostgreSQL, Prisma, REST APIs  
 - **Tools & Platforms:** Git, GitHub, Docker.
 - **Operating Systems:** Linux (Ubuntu), Windows  
