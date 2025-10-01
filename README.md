@@ -2,7 +2,7 @@
 
 **Hello, I'm Mohamed Eid**
 
-🛠️ Software Develope | 🌍 Open Source Contributor
+🛠️ Software Developer | 🌍 Open Source Contributor
 
 🔭 I’m currently working on nodeJS and express ,Nest.js
 I’m currently learning system design and DevOps fundamentals
@@ -15,8 +15,9 @@ I’m currently learning system design and DevOps fundamentals
 ---
 
 ### 🧰 Tech Stack
-- **languages:** Javascript,Typescript, Python.PHP
-- **Backend:** Node.js, Express.js, MongoDB, PostgreSQL, Prisma, REST APIs  
+- **languages:** Javascript,Typescript,Python,PHP
+- **Backend:** Node.js, Express.js, MongoDB, PostgreSQL, Prisma, REST APIs
+- **FrontEnd:** HTML, CSS, React.js, Tailwind CSS.
 - **Tools & Platforms:** Git, GitHub, Docker.
 - **Operating Systems:** Linux (Ubuntu), Windows  
 
