@@ -5,8 +5,6 @@
 🛠️ Software Developer | 🌍 Open Source Contributor
 
 🔭 I’m currently working on nodeJS and express ,Nest.js
-I’m currently learning system design and DevOps fundamentals
-
 
 - 🌱 **Currently Learning:** learning system design and DevOps fundamentals – CI/CD, AWS
 
