@@ -15,11 +15,11 @@ I’m currently learning system design and DevOps fundamentals
 ---
 
 ### 🧰 Tech Stack
-- **languages:** Javascript,Typescript,Python,PHP
-- **Backend:** Node.js, Express.js, MongoDB, PostgreSQL, Prisma, REST APIs
-- **FrontEnd:** HTML, CSS, React.js, Tailwind CSS.
-- **Tools & Platforms:** Git, GitHub, Docker.
-- **Operating Systems:** Linux (Ubuntu), Windows  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,nodejs,express,nestjs,mongodb,postgres,prisma,html,css,react,tailwind,git,github,docker,linux,windows" alt="Tech Stack" />
+</p>
+
 
 
 📬 Let's Connect
